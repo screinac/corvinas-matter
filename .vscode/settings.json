@@ -1,0 +1,10 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPath": "/Users/sergiocamiloreinacardenas/esp/esp-idf",
+    "idf.openOcdConfigs": [
+        "board/esp32c3-builtin.cfg"
+    ],
+    "idf.port": "/dev/tty.usbmodem31301",
+    "idf.toolsPath": "/Users/sergiocamiloreinacardenas/.espressif",
+    "idf.flashType": "UART"
+}
